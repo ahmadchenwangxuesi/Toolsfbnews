@@ -21,7 +21,7 @@ $ pkg install git
 
 $ git clone https://github.com/Ahmadchenwangxuesi/Toolsfbnews
 
-$ cd BB
+$ cd Toolsfbnews
 
 $ pip2 install requests mechanize
 
